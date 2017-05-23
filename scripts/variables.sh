@@ -3,13 +3,13 @@ SUPPORTED_VERSION="1.9"
 # Key binding options and defaults
 
 logging_key_option="@logging-key"
-default_logging_key="P" # Shift-p
+default_logging_key="S" # Shift-s
 
 pane_screen_capture_key_option="@screen-capture-key"
-default_pane_screen_capture_key="M-p" # Alt-p
+default_pane_screen_capture_key="M-s" # Alt-s
 
 save_complete_history_key_option="@save-complete-history-key"
-default_save_complete_history_key="M-P" # Alt-Shift-p
+default_save_complete_history_key="C-s" # Ctrl-s
 
 clear_history_key_option="@clear-history-key"
 default_clear_history_key="M-c" # Alt-c
@@ -29,7 +29,7 @@ screen_capture_path_option="@screen-capture-path"
 default_screen_capture_path="$HOME"
 
 screen_capture_filename_option="@screen-capture-filename"
-default_screen_capture_filename="tmux-screen-capture-${filename_suffix}"
+default_screen_capture_filename="tmux-screencap-${filename_suffix}"
 
 # Save complete history options
 save_complete_history_path_option="@save-complete-history-path"
