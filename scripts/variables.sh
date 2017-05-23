@@ -6,7 +6,7 @@ logging_key_option="@logging-key"
 default_logging_key="S" # Shift-s
 
 pane_screen_capture_key_option="@screen-capture-key"
-default_pane_screen_capture_key="M-s" # Alt-s
+default_pane_screen_capture_key="C-S" # Ctrl-Shift-s
 
 save_complete_history_key_option="@save-complete-history-key"
 default_save_complete_history_key="C-s" # Ctrl-s
