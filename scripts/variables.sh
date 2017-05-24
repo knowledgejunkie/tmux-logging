@@ -15,7 +15,7 @@ clear_history_key_option="@clear-history-key"
 default_clear_history_key="M-c" # Alt-c
 
 # General options
-filename_suffix="#{session_name}-#{window_index}-#{pane_index}-%Y%m%dT%H%M%S.log"
+filename_suffix="#H-#{session_name}-#{window_index}-#{pane_index}-%Y%m%dT%H%M%S.log"
 
 # Logging options
 logging_path_option="@logging-path"
