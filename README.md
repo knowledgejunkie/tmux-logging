@@ -17,7 +17,7 @@ Tested and working on Linux, OSX and Cygwin.
 
 ### 1. Logging
 
-Key binding: `prefix + shift + p`<br/>
+Key binding: `prefix + alt + l`<br/>
 File path: `$HOME` (user home dir)<br/>
 File name format:
 
@@ -56,7 +56,7 @@ screenshot".
 
 ### 3. Save complete history
 
-Key binding: `prefix + alt + shift + p`<br/>
+Key binding: `prefix + alt + s`<br/>
 File path: `$HOME` (user home dir)<br/>
 File name format:
 
