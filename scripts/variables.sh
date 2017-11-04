@@ -3,13 +3,13 @@ SUPPORTED_VERSION="1.9"
 # Key binding options and defaults
 
 logging_key_option="@logging-key"
-default_logging_key="S" # Shift-s
+default_logging_key="M-l" # Alt-l
 
 pane_screen_capture_key_option="@screen-capture-key"
-default_pane_screen_capture_key="C-p" # Ctrl-p
+default_pane_screen_capture_key="M-p" # Alt-p
 
 save_complete_history_key_option="@save-complete-history-key"
-default_save_complete_history_key="C-s" # Ctrl-s
+default_save_complete_history_key="M-s" # Alt-s
 
 clear_history_key_option="@clear-history-key"
 default_clear_history_key="M-c" # Alt-c
